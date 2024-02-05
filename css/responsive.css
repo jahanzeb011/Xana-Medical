@@ -1,0 +1,499 @@
+
+
+/*--------------------------------------------------------------------- File Name: responsive.css ---------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------- 991px x 768px ---------------------------------------------------------------------*/
+
+@media (min-width: 1200px) and (max-width: 1500px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+      
+
+      .meddcontainer1{
+        margin-top: 50px;
+        margin-left: 15px;
+        width: 65vw;
+        padding-left: 50px;
+        
+      }
+    
+      .meddcontainer2{
+        margin-top: 100px;
+        margin-left: 20px;
+      }
+
+      .textusecase1{
+        padding-left: 75px;
+      }
+
+      .cont41{
+        margin-left: 15px;
+        width: 95vw;
+      }
+
+      .case_study_container .box-container .box{
+        box-shadow: 0 5px 10px rgba(0,0,0,.2);
+        border-radius: 5px;
+        background: #fff;
+        text-align: center;
+        padding:30px;
+        width: 82vw;
+        /* margin: 10px; */
+    }
+
+    .about_us_container h1{
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+
+    .about_us_container p{
+      padding-left: 100px;
+      padding-right: 100px;
+    }
+
+    .pricing2{
+      padding-left: 50px;
+    
+     }
+    
+     .pricecard a{
+      margin-left: 25px;
+     }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .navigation.navbar-dark .navbar-nav .nav-link {
+        padding: 0 20px;
+    }
+
+    .text-bg h1 {
+        padding-top: 0px;
+        font-size: 44px;
+        line-height: 61px;
+        padding-bottom: 18px;
+    }
+    .text-bg span {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .text-bg a {
+        margin-right: 5px;
+        padding: 10px 23px;
+        float: inherit;
+        max-width: 156px;
+    }
+    .Services .Services-box {
+        padding: 25px 15px;
+    }
+    .Services .Services-box h3 {
+        font-size: 17px;
+    }
+    .why .why-box {
+        padding: 40px 10px 20px 10px;
+    }
+    .why .why-box h3 {
+        font-size: 19px;
+    }
+    .bg {
+        max-width: 170px;
+    }
+    .main_form {
+        padding: 55px 25px;
+    }
+    .cont span {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .cont p {
+        padding: 0px 30px;
+        padding-bottom: 60px;
+    }
+    .cont {
+        margin-top: 47%;
+    }
+    .main_form {
+        margin-bottom: -92%;
+    }
+
+    .contact_container { 
+        column-gap: 60px; 
+   }
+
+   #navbarsExample04 {
+    margin-top: 30px;
+   }
+
+   .meddcont1{
+    margin-top: 50px;
+    margin-left: 25px;
+    width: 85vw;
+  }
+
+  .meddcont1 h1{
+    font-size: 34px;
+  }
+
+  .meddcont2{
+    padding-left: 35px;
+  }
+
+  .meddcontainer1{
+    margin-top: 50px;
+    margin-left: 15px;
+    width: 65vw;
+    
+  }
+
+  .meddcontainer2{
+    margin-top: 100px;
+    margin-left: 20px;
+  }
+
+  .textusecase1{
+    padding-left: 50px;
+  }
+
+  .cont41{
+    margin-left: 15px;
+    width: 95vw;
+  }
+
+  .datatypecards{
+    width: 18vw;
+
+  }
+
+  .case_study_container .box-container .box{
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    border-radius: 5px;
+    background: #fff;
+    text-align: center;
+    padding:30px;
+    width: 82vw;
+    /* margin: 10px; */
+}
+
+.about_us_container h1{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.about_us_container p{
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+.pricing2{
+  padding-left: 30px;
+
+ }
+
+
+ .pricecard{
+
+  width: 30vw;
+  height: 75vh;
+ }
+
+ .pricecard a{
+  margin-left: 5px;
+ }
+
+
+   
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+
+}
+
+@media (max-width: 575px) {
+    .header {
+        padding: 40px 0px 0px 0px;
+    }
+    .logo {
+        text-align: center !important;
+        padding-bottom: 25px;
+        float: left;
+    }
+    .text-bg h1 {
+        font-size: 41px;
+        line-height: 55px;
+        padding-bottom: 18px;
+    }
+
+    
+    .text-bg a {
+        float: inherit;
+        margin-bottom: 30px;
+    }
+    .text-bg span {
+        
+        line-height: 30px;
+    }
+    .titlepage h2 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .web_hosting p {
+        padding: 40px 0px;
+    }
+    .bg {
+        margin-bottom: 30px;
+    }
+    .cont h3 {
+        font-size: 30px;
+    }
+    .cont p {
+        padding: 0px 0px;
+        padding-bottom: 60px;
+    }
+    .cont span {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .cont {
+        margin-top: 89%;
+    }
+    .main_form {
+        margin-bottom: -102%;
+        padding: 55px 15px;
+    }
+    .navigation.navbar {
+        float: right;
+        display: inherit !important;
+        padding: 0;
+        width: 100%;
+        margin-top: -70px;
+    }
+    .navigation .navbar-collapse {
+        background: #fff;
+        padding: 20px;
+        margin-top: 56px;
+        position: absolute;
+        width: 100%;
+        margin-right: 20px;
+        z-index: 999;
+    }
+    .navigation.navbar-dark .navbar-nav .nav-link {
+        padding: 10px 0;
+        color: #000;
+    }
+    .navigation.navbar-dark .navbar-toggler {
+        border-color: #fff;
+        float: right;
+    }
+
+    .text-container{
+        font-size: 40px;
+    }
+
+    .contact_container {
+        display: flex;
+        flex-direction: column;
+   }
+
+   .contact_container h1{
+    font-size: 40px;
+   }
+
+   .contact_container input{
+    width: 250px;
+    font-size: 12px;
+   }
+
+   .logo-slider image{
+    padding-left: 5px;
+    padding-right: 5px;
+   }
+
+   .why .why-box{
+    height: 80%;
+   }
+
+   .meddcont1{
+    margin-top: 50px;
+    margin-left: 25px;
+    width: 85vw;
+  }
+
+  .meddcont1 p{
+    font-size: 14px;
+  }
+
+  .meddcont1 h1{
+    font-size: 34px;
+  }
+
+  .meddcont2{
+    margin-top: 35px;
+    padding: 20px;
+    padding-left: 20px;
+   
+  }
+
+  .usecasecards{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 25px;
+  }
+
+  .usecasecards div{
+    width: 90vw;
+    margin-bottom: 25px;
+  }
+
+
+
+  .meddcontparent{
+    display: flex;
+    flex-direction: column;
+   
+ }
+
+ .meddcontainer1{
+    margin-top: 50px;
+    margin-left: 15px;
+    width: 95vw;
+  }
+
+
+  .meddcontainer2{
+    width: 75vw;
+    margin-top: 35px;
+    margin-left: 50px;
+    padding-bottom: 20px;
+  }
+ 
+
+  .textusecase1{
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+    padding-bottom: 40px;
+  }
+
+  .usecase1{
+    width: 85vw;
+    padding: 20px;
+    margin-bottom: 20px;
+
+  }
+
+  .usecase2{
+    margin-left: 0px;
+    width: 85vw;
+
+  }
+
+  .cont3{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .cont3 h1{
+    width: 95vw;
+    margin-top: 50px;
+  }
+
+  .cont41{
+    width: 60vw;
+  }
+
+  .cont41{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .datatypecards{
+    width: 80vw;
+    padding: 20px;
+  }
+
+  .case_study_container .box-container .box{
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    border-radius: 5px;
+    background: #fff;
+    text-align: center;
+    padding:30px;
+    width: 80vw;
+    /* margin: 10px; */
+}
+
+.about_us_container p{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.story{
+  display: flex;
+  flex-direction: column;
+}
+
+.story1{
+  width: 80vw;
+  
+}
+
+
+.story2{
+  width: 90vw;
+  margin-top: 50px;
+
+}
+
+.story2 p{
+  font-size: 12px;
+  padding-left: 5px;
+  padding-right: 25px
+}
+
+.team{
+  display: flex;
+  flex-direction: column;
+  padding-top: 40px;
+}
+
+.team div{
+ margin-bottom: 15px;
+}
+
+.team img{
+  width: 60vw;
+  
+}
+
+.pricing1{
+  padding-left: 20px;
+  padding-right: 15px;
+ }
+
+ .pricing2{
+  padding-left: 30px;
+
+ }
+
+ .pricecont{
+  display: flex;
+  flex-direction:column;
+ }
+
+ .pricecard{
+  width: 80vw;
+  height: fit-content;
+  
+ }
+
+ .pricecard a{
+  margin-left: 30px;
+ }
+    
+   
+}
+
